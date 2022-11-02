@@ -1,8 +1,13 @@
-# theme: jekyll-theme-minimal
+title: Jonah Shaw
+logo: /assets/img/logo.png
+description: PhD Candidate in Atmospheric and Oceanic Sciences at the University of Colorado Boulder.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
 
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# remote_theme: pages-themes/minimal@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Jonah Shaw's professional homepage
-description: This site will be an overview of my work and professional interests.
+# title: Jonah Shaw's professional homepage
+# description: This site will be an overview of my work and professional interests.
