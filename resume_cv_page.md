@@ -4,6 +4,8 @@ layout: default
 
 # Resumé/CV
 
+![CV_20221103](/assets/pdf/CV_20221103.pdf "Curriculum Vitae Updated 2022/11/03")
+
 This page is under construction!
 
 <!-- I will figure out how to imbed my resumé and CV pdfs here. -->
