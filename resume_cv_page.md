@@ -2,11 +2,10 @@
 layout: default
 ---
 
-# Resumé/CV
+# CV 
+## (updated 2022/11/03)
 
-![CV_20221103](./assets/pdf/CV_20221103.pdf "Curriculum Vitae Updated 2022/11/03")
-
-![CV_20221103](./assets/pdf/CV_20221103.pdf)
+* * *
 
 <object data="./assets/pdf/CV_20221103.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="./assets/pdf/CV_20221103.pdf">
@@ -14,12 +13,14 @@ layout: default
     </embed>
 </object>
 
-
-This page is under construction!
+<!-- This page is under construction! -->
 
 <!-- I will figure out how to imbed my resumé and CV pdfs here. -->
 
-<!-- ![CV_20221102](/assets/pdf/CV_20221102.pdf "Curriculum Vitae Updated 2022/11/02") -->
+<!-- Simpler attempts at embedding the .pdf CV did not work...
+![CV_20221103](./assets/pdf/CV_20221103.pdf "Curriculum Vitae Updated 2022/11/03")
+
+![CV_20221103](./assets/pdf/CV_20221103.pdf) -->
 
 * * *
 
