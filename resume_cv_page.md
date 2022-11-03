@@ -10,4 +10,6 @@ This page is under construction!
 
 <!-- ![CV_20221102](/assets/pdf/CV_20221102.pdf "Curriculum Vitae Updated 2022/11/02") -->
 
+* * *
+
 [return to main page](./)
