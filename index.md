@@ -15,4 +15,4 @@ You can use this site to learn more about my [experience](./resume_cv_page.html)
 * * *
 
 ## Contact Me
-You can contact me via email at jonah[dot]shaw[at]gmail[dot]com
+You can contact me via email at jonah[dot]shaw[at]colorado[dot]edu
