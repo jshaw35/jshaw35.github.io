@@ -5,9 +5,9 @@ layout: default
 # CV 
 Last updated 2023/09/29.
 
-<object data="./assets/pdf/CV_20230929.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./assets/pdf/CV_20230929.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/pdf/CV_20221103.pdf">Download PDF</a>.</p>
+<object data="./assets/pdf/CV_20241218.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="./assets/pdf/CV_20241218.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/pdf/CV_20241218.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
