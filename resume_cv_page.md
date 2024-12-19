@@ -3,7 +3,7 @@ layout: default
 ---
 
 # CV 
-Last updated 2023/09/29.
+Last updated 2024/12/18.
 
 <object data="./assets/pdf/CV_20241218.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="./assets/pdf/CV_20241218.pdf">
