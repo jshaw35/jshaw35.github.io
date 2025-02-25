@@ -3,11 +3,11 @@ layout: default
 ---
 
 # CV 
-Last updated 2024/12/18.
+Last updated 2025/02/25.
 
-<object data="./assets/pdf/CV_20241218.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./assets/pdf/CV_20241218.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/pdf/CV_20241218.pdf">Download PDF</a>.</p>
+<object data="./assets/pdf/CV_20250225.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="./assets/pdf/CV_20250225.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/pdf/CV_20250225.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
